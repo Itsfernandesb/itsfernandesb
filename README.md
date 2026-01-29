@@ -4,40 +4,42 @@ Frontend Developer in training.
 
 Focada na criação de interfaces modernas, responsivas e acessíveis.  
 Tenho interesse em transformar ideias em experiências digitais funcionais e bem estruturadas.
+<img align="right" height="140" src=""/>
 
-<h3 align="left">My Stack ~</h3>
+---
 
+### 🛠️ My Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25"/>
 </div>
 
+---
 
 ### 🌱 Atualmente
-- 📚 Estudando Front-end
-- ⚛️ Aprendendo Javascript 
+- 📚 Estudando Front-end  
+- ⚛️ Aprendendo JavaScript  
 - 🧠 Melhorando lógica de programação
- 
-###
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsfernandesb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfernandesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=material-palenight&fontFamily=Abel&preferLogin=true">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/itsfernandesb?cardType=github&theme=material-palenight&fontFamily=Abel&preferLogin=true"
+      alt="itsfernandesb's GitHub Stats"
+    />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+### 📫 Onde me encontrar
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hingridfernandes7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hingridfernandes/)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:hingridfernandes7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/hingridfernandes/)
-
-###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-dark.svg">
