@@ -5,10 +5,15 @@ Frontend Developer in training.
 Focada na criação de interfaces modernas, responsivas e acessíveis.  
 Tenho interesse em transformar ideias em experiências digitais funcionais e bem estruturadas.
 
-### 🛠️ Tecnologias
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+</div>
 
 
 ### 🌱 Atualmente
@@ -29,10 +34,8 @@ Tenho interesse em transformar ideias em experiências digitais funcionais e bem
 
 ###
 
-<div align="left"/>
-  <a href="https://www.linkedin.com/in/hingridfernandes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:hingridfernandes7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/hingridfernandes/)
 
 ###
 
