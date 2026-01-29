@@ -31,7 +31,7 @@ Tenho interesse em transformar ideias em experiências digitais funcionais e bem
 
 <div align="left"/>
   <a href="https://www.linkedin.com/in/hingridfernandes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Felipe de Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
 ###
