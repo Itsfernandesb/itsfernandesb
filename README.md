@@ -4,7 +4,10 @@ Frontend Developer in training.
 
 Focada na criação de interfaces modernas, responsivas e acessíveis.  
 Tenho interesse em transformar ideias em experiências digitais funcionais e bem estruturadas.
-<img align="right" height="140" src=""/>
+
+<p align="left">
+  <img src="./assets/meuGif.gif" width="110" style="max-width: 40vw;" />
+</p>
 
 ---
 
@@ -24,14 +27,49 @@ Tenho interesse em transformar ideias em experiências digitais funcionais e bem
 
 ---
 
-<div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=material-palenight&fontFamily=Abel&preferLogin=true">
-    <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/itsfernandesb?cardType=github&theme=material-palenight&fontFamily=Abel&preferLogin=true"
-      alt="itsfernandesb's GitHub Stats"
-    />
-  </a>
-</div>
+<!-- ===== GitHub Profile Summary Cards ===== -->
+
+<!-- Card principal -->
+ <p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsfernandesb&theme=material_palenight"
+    alt="GitHub Profile Details"
+    style="max-width: 100%;"
+  />
+</p> 
+
+<!-- Linguagens -->
+ <p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsfernandesb&theme=material_palenight"
+    alt="Repos per Language"
+    width="400"
+    style="max-width: 100%;"
+  /> 
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsfernandesb&theme=material_palenight"
+    alt="Most Commit Language"
+    width="400"
+    style="max-width: 100%;"
+  />
+</p> 
+
+<!-- Estatísticas -->
+ <p align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsfernandesb&theme=material_palenight"
+    alt="GitHub Stats"
+    width="400"
+    style="max-width: 100%;"
+  /> 
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsfernandesb&theme=material_palenight&utcOffset=8"
+    alt="Productive Time"
+    width="400"
+    style="max-width: 100%;"
+  />
+</p> 
+
 
 ---
 
