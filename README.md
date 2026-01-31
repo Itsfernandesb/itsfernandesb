@@ -1,13 +1,10 @@
 ## Hi! I'm Hingrid Fernandes 👋🏼
+### 💜 Um pouco sobre mim
 
-Frontend Developer in training.
-
-Focada na criação de interfaces modernas, responsivas e acessíveis.  
-Tenho interesse em transformar ideias em experiências digitais funcionais e bem estruturadas.
-
-<p align="left">
-  <img src="./assets/meuGif.gif" width="110" style="max-width: 40vw;" />
-</p>
+- Frontend Developer in training
+- Amo design e interfaces bonitas
+- Gosto de aprender criando projetos
+- Monster + codar = felicidade 🥤💻
 
 ---
 
