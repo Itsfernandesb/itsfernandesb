@@ -1,7 +1,7 @@
 ## Hi! I'm Hingrid Fernandes 👋🏼
 ### 💜 Um pouco sobre mim
 
-- Frontend Developer in training
+- Full-Stack Developer in training
 - Amo design e interfaces bonitas
 - Gosto de aprender criando projetos
 - Monster + codar = felicidade 🥤💻
@@ -18,7 +18,7 @@
 ---
 
 ### 🌱 Atualmente
-- 📚 Estudando Front-end  
+- 📚 Estudando Programação  
 - ⚛️ Aprendendo JavaScript  
 - 🧠 Melhorando lógica de programação
 
