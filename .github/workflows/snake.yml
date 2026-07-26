@@ -22,10 +22,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#00CED1"        # Azul turquesa
-          background: "#FFFFFF"         # Fundo branco (clean)
-          grid_color: "#D3D3D3"         # Cinza claro nos quadradinhos vazios
-          apple_color: "#9370DB"        # Lilás suave para os commits
+          snake_color: "#C084FC"        # Lilás suave (combina com seus botões)
+          background: "#0D1117"         # Fundo escuro igual ao tema do GitHub
+          grid_color: "#30363D"         # Cinza escuro para os quadradinhos vazios
+          apple_color: "#22D3EE"        # Azul turquesa para os commits
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
