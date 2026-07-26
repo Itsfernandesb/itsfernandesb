@@ -75,11 +75,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hingridfernandes7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hingridfernandes/)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-dark-new.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-new.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-new.svg">
-</picture>
-
-
