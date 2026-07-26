@@ -17,7 +17,7 @@ jobs:
 
       # 🐍 Versão para tema claro
       - name: Generate Snake (light)
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@master
         with:
           github_user_name: itsfernandesb
           outputs: dist/github-contribution-grid-snake.svg
@@ -28,7 +28,7 @@ jobs:
 
       # 🌑 Versão para tema escuro
       - name: Generate Snake (dark)
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@master
         with:
           github_user_name: itsfernandesb
           outputs: dist/github-contribution-grid-snake-dark.svg
