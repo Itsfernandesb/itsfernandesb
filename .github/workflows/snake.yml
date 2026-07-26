@@ -19,8 +19,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: itsfernandesb
-          outputs: dist/snake.svg
-          snake_color: "#8A2BE2"        # Roxo neon
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          snake_color: "#BA82E2"        # Roxo neon
           background: "#000000"         # Fundo preto
           grid_color: "#39FF14"         # Quadradinhos vazios em verde neon
           apple_color: "#FF69B4"        # Commits em rosa vibrante
