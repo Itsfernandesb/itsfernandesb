@@ -76,9 +76,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hingridfernandes/)
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-dark-new.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-new.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itsfernandesb/itsfernandesb/output/github-contribution-grid-snake-new.svg">
 </picture>
+
 
