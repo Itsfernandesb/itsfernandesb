@@ -1,6 +1,9 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"  # Atualiza todos os dias à meia-noite UTC
   workflow_dispatch:
@@ -11,11 +14,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: itsfernandesb
           outputs: dist/snake.svg
+          snake_color: "#8A2BE2"        # Roxo neon
+          background: "#000000"         # Fundo preto
+          grid_color: "#39FF14"         # Quadradinhos vazios em verde neon
+          apple_color: "#FF69B4"        # Commits em rosa vibrante
+
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
