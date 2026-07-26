@@ -18,8 +18,8 @@
 ---
 
 ### 🌱 Atualmente
-- 📚 Estudando Programação  
-- ⚛️ Aprendendo JavaScript  
+- 📚 Desenvolvendo Habilidades Full-Stack  
+- ⚛️ Aprendendo a programar em HTML, CSS, JavaScript
 - 🧠 Melhorando lógica de programação
 
 ---
