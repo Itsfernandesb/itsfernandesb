@@ -15,27 +15,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # 🐍 Versão para tema claro
-      - name: Generate Snake (light)
-        uses: Platane/snk@master
+      - name: Generate Snake SVG (light)
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: itsfernandesb
-          outputs: dist/github-contribution-grid-snake.svg
-          color_snake: "#C084FC"        # Lilás suave
-          color_dots: "#D3D3D3"        # Cinza claro
-          color_apple: "#22D3EE"       # Azul turquesa
-          color_background: "#FFFFFF"  # Fundo branco para tema claro
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # 🌑 Versão para tema escuro
-      - name: Generate Snake (dark)
-        uses: Platane/snk@master
+      - name: Generate Snake SVG (dark)
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: itsfernandesb
-          outputs: dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#C084FC"        # Lilás suave
-          color_dots: "#30363D"        # Cinza escuro
-          color_apple: "#22D3EE"       # Azul turquesa
-          color_background: "#0D1117"  # Fundo escuro igual ao tema do GitHub
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
