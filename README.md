@@ -87,7 +87,6 @@ Projeto desenvolvido durante os estudos com foco em componentização, organiza�
 
 ---
 
----
 
 ## 🌎 Onde me encontrar
 
@@ -102,3 +101,11 @@ Projeto desenvolvido durante os estudos com foco em componentização, organiza�
 </a>
 
 </div>
+
+--- 
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://github.com/itsfernandesb/itsfernandesb/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
